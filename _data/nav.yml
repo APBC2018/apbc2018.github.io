@@ -1,0 +1,36 @@
+- title: "Home"
+  href: "/"
+
+- title: "Important Dates"
+  href: "/deadlines.html"
+
+- title: "Keynote Speakers"
+  href: "/keynotes.html"
+
+- title: "Registration"
+  href: "/registration.html"
+
+- title: "Submissions"
+  subcategories:
+    - subtitle: "Call for Papers"
+      subhref: "/paper.html"
+    - subtitle: "Call for Posters"
+      subhref: "/poster.html"
+
+- title: "Program"
+  href: "/Program.html"
+
+- title: "Conference Location"
+  href: "/location.html"
+
+- title: "Hotel Accommodation"
+  href: "/hotel.html"
+
+- title: "Visa Information"
+  href: "/visa.html"
+
+- title: "Chairs & Committees"
+  href: "/organization.html"
+
+- title: "Previous Meetings"
+  href: "http://homepage.cs.latrobe.edu.au/ypchen/APBChomepage.htm"

@@ -1,0 +1,36 @@
+<div class="sidebar well">
+    <nav>
+        <ul class="nav nav-pills nav-stacked">
+            {% for nav in site.data.nav %}
+            {%   if nav.subcategories != null %}
+            <li role="presentation" class="dropdown">
+                <a href="{{ site.url }}{{ nav.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">{{ nav.title }}</a>
+                <ul class="dropdown-menu" role="menu">
+                    {% for subcategory in nav.subcategories %}
+                    <li role="presentation">
+                        <a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </li>
+            {% elsif nav.title == page.title %}
+            <li role="presentation">
+                <a href="{{ nav.url }}">{{ nav.title }}</a>
+            </li>
+            {% elsif nav.href[0] == "/" %}
+            <li role="presentation">
+                <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+            </li>
+            {% else %}
+            <li role="presentation">
+                <a href="{{ nav.href }}">{{ nav.title }}</a>
+            </li>
+            {%   endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+</div>
+<!-- 
+     <div class="sidebar well">
+     {% include links-list.html %}
+     </div> -->

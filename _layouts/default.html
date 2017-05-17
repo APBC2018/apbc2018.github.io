@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+        <!-- {% include header.html %} -->
+        <div class="container container-center">
+            <div class="row">
+                <div class="col-md-9 col-md-offset-1">
+                    {% include apbc2018logo.html %}
+                </div>
+            </div>
+        </div>
+        <p />
+        <div class="container container-center">
+            <div class="row">
+                <div class="col-md-3 hidden-xs">
+                    {% include sidebar.html %}
+                </div>
+                <div class="col-md-8">
+                    <div class="article">
+                        <div class="well">
+                            {{ content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% include footer.html %}
+    </body>
+</html>

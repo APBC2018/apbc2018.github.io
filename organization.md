@@ -1,0 +1,99 @@
+---
+layout: default
+---
+
+# Chairs and Committees
+
+## General Co-Chairs
+
+* Yasubumi Sakakibara (Keio University)
+* Satoru Miyano (University of Tokyo)
+* Kiyoshi Asai (University of Tokyo)
+
+## Program Committee Co-Chairs
+
+* Yoshihiro Yamanishi (Kyushu University)
+* Yasubumi Sakakibara (Keio University)
+* Phoebe Chen (La Trobe University)
+
+## Program Committee Members
+
+* Tatsuya Akutsu (Kyoto University)
+* Max Alekseyev (George Washington University)
+* Masanori Arita (National Institute of Genetics)
+* Daniel Brown (Cheriton School of Computer Science, University of Waterloo)
+* Vladimir Brusic (Nazarbayev University)
+* Pritam Chanda (Johns Hopkins University)
+* Tzu-Hao Chang (Graduate Institute of Biomedical Informatics, Taipei Medical University)
+* Chao Cheng (Dartmouth Medical School)
+* Lenore Cowen (Tufts University)
+* Fei Deng (University of California, Davis)
+* Nadia El-Mabrouk (University of Montreal)
+* Susumu Goto (Research Organization of Information and Systems)
+* Kyungsook Han (Inha University)
+* Eric Ho (Lafayette College)
+* Paul Horton (AIST, Computational Biology Research Center)
+* Fei Hu (University of south carolina)
+* Hsien-Da Huang (National Chiao Tung University)
+* Hsuan-Cheng Huang (National Yang-Ming University)
+* Seiya Imoto (Human Genome Center, Institute of Medical Science, University of Tokyo,)
+* Rui Jiang (Tsinghua University)
+* Sun Kim (Seoul National University)
+* Masaaki Kotera (Tokyo Institute of Technology)
+* Mehmet Koyuturk (Case Western Reserve University)
+* Hiroyuki Kurata (Kyushu Institute of Technology)
+* Doheon Lee (KAIST)
+* Tzong Yi Lee (Yuan Ze University)
+* Hongxing Lei (Beijing Institute of Genomics)
+* Shuai Cheng Li (City University of Hong Kong)
+* Yu Lin (Research School of Computer Science, Australian National University)
+* Juan Liu (School of computer science, Wuhan University)
+* Xiaowen Liu (Indiana University-Purdue University Indianapolis)
+* Xinghua Lu (University of Pittsburgh)
+* Hiroshi Mamitsuka (Kyoto University / Aalto University)
+* Ion Mandoiu (University of Connecticut)
+* Hideo Matsuda (Osaka University)
+* Bernard Moret (EPFL)
+* Shinichi Morishita (University of Tokyo)
+* Kenta Nakai (Intitute of Medical Science, University of Tokyo)
+* Vincent Ng (The Hong Kong Polytechnic University)
+* Arlindo Oliveira (INESC-ID / IST)
+* Tun-Wen Pai (Department of Computer Science and Engineering, National Taiwan Ocean University)
+* Shaoliang Peng (National University of Defense Technology)
+* Sourav S Bhowmick (Nanyang Technological University)
+* David Sankoff (University of Ottawa)
+* Thomas Schlitt (King's College London)
+* Russell Schwartz (Carnegie Mellon University)
+* Jun Sese (AIST)
+* Xiaofeng Song (Nanjing University of Aeronautics and Astronautics)
+* Fengzhu Sun (University of Southern California)
+* Yanni Sun (Michigan State University)
+* Wing-Kin Sung (Nuational University of Singapore)
+* Jijun Tang (University of South Carolina)
+* Glenn Tesler (University of California, San Diego)
+* Alfonso Valencia (Spanish National Cancer Research Centre)
+* Jerome Waldispuhl (McGill)
+* Li-San Wang (University of Pennsylvania)
+* Lusheng Wang (City University of Hong Kong)
+* Lusheng Wang (CS Dept., City Univ. of HK)
+* Ka-Chun Wong (City University of Hong Kong)
+* Louxin Zhang (National University of Singapore)
+* Qiangfeng Cliff Zhang (Stanford University)
+* Xuegong Zhang (Tsinghua University)
+* Xing-Ming Zhao (Tongji University)
+* Jie Zheng (Nanyang Technological University)
+* Fengfeng Zhou (Chinese Academy of Sciences)
+* Shuigeng Zhou (Fudan University)
+* Shanfeng Zhu (Fudan University)
+
+## Local Organizing Committee Co-Chairs
+
+* Kengo Sato (Keio University)
+* Michiaki Hamada (Waseda University)
+
+## Local Organizing Committee Members
+
+* Tsukasa Fukunaga (Waseda University)
+* Vasanthan Jayakumar (Keio University)
+* Kuo-Ching Liang (Keio University)
+* Yutaka Saito (AIST)
