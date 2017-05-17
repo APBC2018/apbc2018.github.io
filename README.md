@@ -11,3 +11,11 @@ converted into ``index.html`` by ``jekyll`` automatically when it is pushed into
 the repository.
 
 We can control the order of navigation menu in ``_data/nav.yml``.
+
+GitHub Pages uses ``CNAME`` file for a custom domain.
+In our site, it contains a line as follows:
+
+```CNAME
+apbc2018.bio.keio.ac.jp
+```
+
