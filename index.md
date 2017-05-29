@@ -3,7 +3,7 @@ layout: default
 ---
 # What is APBC?
 
-The Asia Pacific Bioinformatics Conference (APBC) series is an annual international forum for exploring research, development and novel applications in the field of Bioinformatics. The aim of APBC is to bring together academia and industry to share knowledge and experiences, and to showcase innovations and achievements. It has been held since 2003 around Asia Pacific Regions (please refer to the [Previous Meetings](http://homepage.cs.latrobe.edu.au/ypchen/APBChomepage.htm).
+The Asia Pacific Bioinformatics Conference (APBC) series is an annual international forum for exploring research, development and novel applications in the field of Bioinformatics. The aim of APBC is to bring together academia and industry to share knowledge and experiences, and to showcase innovations and achievements. It has been held since 2003 around Asia Pacific Regions (please refer to the [Previous Meetings](http://homepage.cs.latrobe.edu.au/ypchen/APBChomepage.htm)).
 
 # APBC 2018
 
