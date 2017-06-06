@@ -49,6 +49,8 @@ Please Note:
 
 * All accepted papers will have to be presented by one of the authors at the conference.
 * Since 2015, easychair system does not allow multiple file uploads and archival file format. Authors can put their supplemental materials on their own web site and add one link in their main paper (PDF).
+* You need to pay publication fees in case your manuscript will be selected for publication. Please check the website of the relevant journal for more information.
+
 
 Best paper awards:
 
