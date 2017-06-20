@@ -27,6 +27,6 @@ TBA
 * Poster submission due: October 21st, 2017, 11:59pm
 * Poster Author notification: Nobember 1st, 2017
 
-Best poster awards:
+## Best poster awards:
 
 A limited number of awards will be given to outstanding posters.
