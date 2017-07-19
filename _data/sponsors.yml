@@ -1,3 +1,7 @@
 - src: "/images/YahooJapan.jpg"
   href: "http://www.yahoo.co.jp/"
   alt: "Yahoo! Japan"
+
+- src: "/images/SN_logo_rgb.png"
+  href: "http://www.springernature.com/jp/"
+  alt: "Springer Nature"
