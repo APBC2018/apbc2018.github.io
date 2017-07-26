@@ -1,3 +1,7 @@
+- src: "/images/keio-logo.gif"
+  href: "https://www.keio.ac.jp/en/"
+  alt: "Keio University"
+
 - src: "/images/YahooJapan.jpg"
   href: "http://www.yahoo.co.jp/"
   alt: "Yahoo! Japan"
