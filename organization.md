@@ -96,7 +96,7 @@ layout: default
 *  Xuegong Zhang (Tsinghua University)
 *  Xing-Ming Zhao (Tongji University)
 *  Jie Zheng (Nanyang Technological University)
-*  Fengfeng Zhou (Chinese Academy of Sciences)
+*  Fengfeng Zhou (Jilin University)
 *  Shuigeng Zhou (Fudan University)
 *  Shanfeng Zhu (Fudan University)
 
