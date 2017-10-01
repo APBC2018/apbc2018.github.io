@@ -1,3 +1,7 @@
+- src: "/images/JSBilogo.png"
+  href: "http://www.jsbi.org/en/"
+  alt: "Japanese Society for Bioinformatics"
+
 - src: "/images/keio-logo.gif"
   href: "https://www.keio.ac.jp/en/"
   alt: "Keio University"
