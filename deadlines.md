@@ -5,7 +5,7 @@ layout: default
 
 ## Full paper submission 
 * Full paper submission due: ~~July 30th, 2017~~ August 20th, 2017, 11:59pm (extended!)
-* Full paper Author notification: September 30th, 2017
+* Full paper Author notification: ~~September 30th, 2017~~ October 7th, 2017
 * Full paper final version due: October 15th, 2017
 * Full paper author registration deadline: October 20th, 2017
 
