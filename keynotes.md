@@ -20,6 +20,8 @@ Department of Systems Pharmacology, Graduate School of Medicine, University of T
 Whole-body and whole-organ clearing and imaging with single-cell resolution toward organism-level systems biology in mammals
 
 ## Prof. Niko Beerenwinkel
+<img src="/images/Beerenwinkel_Niko_2_colA5.jpg" alt="Prof. Niko Beerenwinkel" width="150px">
+
 Computational Biology Group, ETH Zurich
 
 **Presentation Title:**
