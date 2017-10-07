@@ -61,3 +61,12 @@ body {
 .dropdown-menu>li>a {
     color: #428bca;
 }
+
+.well th, .well td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.well thead, .well tbody {
+    border: 1px solid;
+}
