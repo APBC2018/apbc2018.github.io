@@ -18,7 +18,7 @@ For JSBi members, 10,000 JPY will be discounted.
 
 Conference Registration Fees include:
 * Banquet (Jan. 16th, 2018)
-* Coffee breaks (Jan. 15th through Jan. 17, 2018th)
+* Coffee breaks (Jan. 15th through Jan. 17th, 2018)
 * One conference USB with electronic version of the conference
   proceedings
 * One conference bag
