@@ -28,7 +28,11 @@ Computational Biology Group, ETH Zurich
 Modeling cancer evolution from genomic data
 
 ## Prof. Katsuhiko Hayashi
+<img src="/images/Katsuhiko.Hayashi.jpg" alt="Prof. Katsuhiko Hayashi" width="150px">
+
 Developmental Stem Cell Biology, Faculty of Medical Sciences, Kyushu University
 
-**Presentation Title:** TBA
+**Presentation Title:**
+In vitro reconstitution of oogenesis in the mouse; how to establish
+the culture, system, mostly empirical.
 
