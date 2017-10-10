@@ -107,7 +107,7 @@ layout: default
 
 ## Local Organizing Committee Members
 
-* Tsukasa Fukunaga (Waseda University)
+* Tsukasa Fukunaga (University of Tokyo)
 * Vasanthan Jayakumar (Keio University)
 * Kuo-Ching Liang (Keio University)
 * Yutaka Saito (AIST)
