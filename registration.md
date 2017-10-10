@@ -31,8 +31,8 @@ Conference Registration Fees include:
 * On-site registration: January 15th - 17th, 2018
 
 
-<!-- ## Registration Link and Instructions -->
+## Registration Link and Instructions
 
-<!-- For APBC 2018 conference registration, please visit the link below: -->
+For APBC 2018 conference registration, please visit the link below:
 
-<!-- [https://kitos-001.jp/APBC2018/Entry/RegTop.aspx](https://kitos-001.jp/APBC2018/Entry/RegTop.aspx) -->
+[https://kitos-001.jp/APBC2018/Entry/RegTop.aspx](https://kitos-001.jp/APBC2018/Entry/RegTop.aspx)
