@@ -33,8 +33,8 @@ We accept all significant work in bioinformatics. Especially, we encourage to su
 
 ## Key Dates:
 
-* Poster submission due: November 5th, 2017, 11:59pm
-* Poster author notification: November 15th, 2017
+* Poster submission due: ~~November 5th, 2017~~ November 12th, 2017, 11:59pm
+* Poster author notification: ~~November 15th, 2017~~ November 20th, 2017
 
 ## Best poster awards:
 

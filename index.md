@@ -12,6 +12,8 @@ The Sixteenth Asia Pacific Bioinformatics Conference will be held in Yokohama, J
 
 # News
 
+* Poster submission due was extended to November 12th (see [Important dates](/deadlines.html)). (Nov. 6, 2017)
+* Early bird registration due was extended to November 20th (See [Call for Posters](/poster.html)). (Nov. 6 2017)
 * [Registration site](/registration.html) is open. (Oct. 10, 2017)
 * [Poster submission site](https://www.easychair.org/conferences/?conf=apbc2018) is open. See [Call for Posters](/poster.html) in detail. (Oct 7, 2017)
 * [Keynote Speakers](/keynotes.html) was updated. (Sep. 28, 2017)

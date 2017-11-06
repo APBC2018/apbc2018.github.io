@@ -5,8 +5,8 @@ layout: default
 
 ## Conference Registration Fees
 
-|                                | On or Before    | Nov. 16th, 2017 to |
-|                                | Nov. 15th, 2017 | Jan. 17th, 2018    |
+|                                | On or Before    | Nov. 21st, 2017 to |
+|                                | Nov. 20th, 2017 | Jan. 17th, 2018    |
 |:------------------------------:|:---------------:|:------------------:|
 |**Students**                    | 40,000 JPY      | 50,000 JPY         |
 |**Academic/Government/Postdoc** | 70,000 JPY      | 80,000 JPY         |
@@ -26,7 +26,7 @@ Conference Registration Fees include:
 ## Conference Registration Key Dates
 
 * Full paper author registration deadline: October 27th, 2017
-* Early bird registration: On or before November 15th, 2017
+* Early bird registration: On or before ~~November 15th, 2017~~ November 20th, 2017
 * Online registration ends: December 26th, 2017
 * On-site registration: January 15th - 17th, 2018
 

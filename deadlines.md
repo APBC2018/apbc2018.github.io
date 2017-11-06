@@ -10,8 +10,8 @@ layout: default
 * Full paper author registration deadline: October 27th, 2017
 
 ## Poster submission
-* Poster submission due: November 5th, 2017, 11:59pm
-* Poster author notification: November 15th, 2017
+* Poster submission due: ~~November 5th, 2017~~ November 12th, 2017, 11:59pm
+* Poster author notification: ~~November 15th, 2017~~ November 20th, 2017
 
 ## Conference start and end dates
 * January 15th - 17th, 2018
