@@ -3,4 +3,4 @@ layout: default
 ---
 # Program
 
-TBA
+[Tentative schedule (171107)](171107program_simplified_nospeaker.pdf)
