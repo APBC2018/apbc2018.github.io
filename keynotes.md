@@ -9,7 +9,7 @@ layout: default
 Division of Molecular Therapy, The Institute of Medical Science, University of Tokyo
 
 **Presentation Title:**
-Clinical sequencing with AI assistance in blood cancers
+AI-supported clinical sequencing in blood cancers
 
 ## Prof. Hiroki R. Ueda
 <img src="/images/Hiroki.R.Ueda.jpg" alt="Prof. Hiroki R. Ueda" width="150px">
