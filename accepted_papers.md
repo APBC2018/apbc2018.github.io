@@ -37,7 +37,7 @@ Han‐Qin Zheng, Nai‐Yun Wu, Kuan‐Chieh Tseng, Ping‐Fu Hou and Wen‐Chi C
 Colby, Neil Barth, David Lynch, Sean Walsh, Ganesh Raghu, Giulia Kennedy and Jing Huang
 * __*Integrated microRNA and mRNA expression profile analysis of Tumor-Associated Macrophages after Exposure to Single-Dose Irradiation*__, Wei‐Hsiang Kung, Chi‐Lung Lee, Chi‐Dung Yang, Ching‐
 Fang Yu, Men‐Yee Chiew, Fang‐Hsin Chen and Hsien‐Da Huang
-* __*KDiamend: a package for detecting key drivers in a molecular ecological network of disease*__, Mengxuan Lyu, Jiaxing Chen, Yiqi Jiang and Shuaicheng Li
+* __*KDiamend: a package for detecting key drivers in a molecular ecological network of disease*__, Mengxuan Lyu, Jiaxing Chen, Yiqi Jiang, Wei Dong, Zhou Fang and Shuaicheng Li
 * __*Matching Algorithms for Assigning Orthologs after Duplication Events*__, Guillaume Fertin, Falk Hüffner, Christian Komusiewicz and Manuel Sorge
 * __*MEGADOCK-Web: an integrated database of high-throughput structure-based protein- protein interaction predictions*__, Takanori Hayashi, Yuri Matsuzaki, Keisuke Yanagisawa,  Masahito Ohue and Yutaka Akiyama
 * __*ncRNA-disease association prediction based on sequence information and tripartite network*__, Takuya Mori, Hayliang Ngouv, Morihiro Hayashida, Tatsuya Akutsu and Jose Nacher
