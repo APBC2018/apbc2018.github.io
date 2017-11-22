@@ -27,7 +27,7 @@ Hamada
 * [A20] __*Development of Clustering method using Factor Analysis based on Gene Expression of Functional Sets*__, Naoaki Ono, Nicolas Savaro, Ming Huang, Md Altaf-Ul-Amin and Shigehiko Kanaya
 * [A21] __*A SOA-Based Library for Representation of the Biological Systems in Computer Algorithms*__, Sepehr Najjarpour and Mehrshad Khosraviani 
 * [A22] __*Predicting Compound-Protein Interaction with Neural Networks based Pairwise Model*__, Mun-Hwan Lee, Eung-Hee Kim, Jinhyun Ahn, Jinuk Jung, Junho Park and Hong-Gee Kim 
-* [A23] __*Learning mutation signatures of indels by Latent Dirichlet Allocation with Variational Bayes inference*__, Taro Matsutani 
+* [A23] __*Learning mutation signatures of indels by Latent Dirichlet Allocation with Variational Bayes inference*__, Taro Matsutani, Yuki Ueno, Tsukasa Fukunaga, Michiaki Hamada
 * [A24] __*Multiple hybrid de novo genome assembly of an allotetraploid crop, finger millet, and homeolog phasing with one parental genome*__, Masaomi Hatakeyama, Sirisha Aluri, Mathi Thumilan Balachadran, Sajeevan Radha Sivarajan, Andrea Patrignani, Simon Grüter, Lucy Poveda, Rie Shimizu-Inatsugi, John Baeten, Kees-Jan Francoijs, Karaba N. Nataraja, Yellodu A. Nanja Reddy, Shamprasad Phadnis, Ramapura L. Ravikumar, Ralph Schlapbach, Sheshshayee M. Sreeman and Kentaro K. Shimizu 
 * [A25] __*Accounting for Tumor Heterogeneity in Identification of Driver Patterns in Cancer Genomes*__, Weiqing Huang, Jie Hu and Lin Hou
 * [A26] __*Ant colony optimization algorithm for predicting RNA folding pathways*__, Seira Takitou and Akito Taneda
