@@ -7,7 +7,7 @@ The Asia Pacific Bioinformatics Conference (APBC) series is an annual internatio
 
 # APBC 2018
 
-The Sixteenth Asia Pacific Bioinformatics Conference will be held in Yokohama, Japan. The aim of this conference is to bring together researchers, academics, and industrial practitioners. APBC2018 invites high quality original full papers on any topic related to Bioinformatics and Computational Biology. The submitted papers must have not been published or under the consideration for publication in any other journal or conference with formal proceedings. All accepted papers will have to be presented by one of the authors at the conference. Accepted papers will be invited to be published in **_IEEE/ACM TCCB_**, **_BMC Bioinformatics_**, **_BMC Genomics_**, **_BMC Systems Biology_**, and **_Computational Biology and Chemistry_** following each journal's publication policy.
+The Sixteenth Asia Pacific Bioinformatics Conference will be held in Yokohama, Japan. The aim of this conference is to bring together researchers, academics, and industrial practitioners. APBC2018 invites high quality original full papers on any topic related to Bioinformatics and Computational Biology. The submitted papers must have not been published or under the consideration for publication in any other journal or conference with formal proceedings. All accepted papers will have to be presented by one of the authors at the conference. Accepted papers will be invited to be published in **_IEEE/ACM TCBB_**, **_BMC Bioinformatics_**, **_BMC Genomics_**, **_BMC Systems Biology_**, and **_Computational Biology and Chemistry_** following each journal's publication policy.
 
 
 # News
