@@ -3,7 +3,7 @@ layout: default
 ---
 # Instructions for Presenters
 
-## Keynote/Oral Speakers
+## For Keynote/Oral Speakers
 
 * Please check the schedule ([here](/program.html)) to see on which
   day and at what time you are presenting your contribution.
@@ -24,7 +24,7 @@ layout: default
   for the operation or safe keeping of computer-related equipment
   belonging to participants.
 
-## Poster Presentations
+## For Poster Presenters
 
 * Please check your poster number [here](/accepted_posters.html).
 * The size of the poster panel will be 90cm wide x 210cm height.
