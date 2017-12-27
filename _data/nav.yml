@@ -24,7 +24,11 @@
       subhref: "/poster.html"
 
 - title: "Program"
-  href: "/program.html"
+  subcategories:
+  - subtitle: "Conference Program"
+    subhref: "/program.html"
+  - subtitle: "Social Events"
+    subhref: "/social.html"
 
 - title: "Instructions for Presenters"
   href: "/instructions.html"
