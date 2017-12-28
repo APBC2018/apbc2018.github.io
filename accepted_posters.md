@@ -51,8 +51,8 @@ Hamada
 * [B18] __*Identification of Adverse Drug Reactions and Medication Intakes on Twitter Using Various Combinations of Language Features*__, Chen-Kai Wang, Emily Chia-Yu Su and Hong-Jie Dai
 * [B19] __*CMV: Cancer Mutation Visulizer, a cross-cohort annotating and visualizing system for cancer analysis projects*__, Chi-Ching Lee and Po-Jung Huang
 * [B20] __*Virtual screening of novel serine racemase inhibitors in silico using the molecular docking method*__, Jia-Jun Liu, Ming-Hsun Tsai, Dong-Chuan Wu, Wei-Yong Lin, Chung-Y. Hsu and Chih-Hao Lu
-* [B21] __*Annie Yim, Prasanna Koti, Milena Duerrbaum,Salma Gamal, Cecilia Garcia-Perez, Fabiana
-Perocchi, Zuzana Storchova and Bianca Habermann*__, Defective Electron Transport Chain Complex in Aneuploidy Cells - Exploring Mitochondrial Functions with RNA-seq Data Using the MitoXplorer web- platform
+* [B21] __*Defective Electron Transport Chain Complex in Aneuploidy Cells - Exploring Mitochondrial Functions with RNA-seq Data Using the MitoXplorer web-platform*__, Annie Yim, Prasanna Koti, Milena Duerrbaum,Salma Gamal, Cecilia Garcia-Perez, Fabiana
+Perocchi, Zuzana Storchova and Bianca Habermann
 * [B22] __*The study of the sequence and structure similarity among metal ion binding sites in proteins*__, Ming-Hsun Tsai, Jia-Jun Liu and Chih-Hao Lu
 * [B23] __*Optimizing sequence assembly for evolutionary variant pattern analysis*__, Seokwoo Kang, Hongtaek Oh and Giltae Song 
 * [B24] __*Interpretation of Branchpoint Variations in Next Generation Sequencing*__, Poulami Chaudhuri, Akriti Jain and Rajgopal Srinivasan
