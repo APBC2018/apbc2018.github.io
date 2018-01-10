@@ -21,3 +21,7 @@
 - src: "/images/SN_logo_rgb.png"
   href: "http://www.springernature.com/jp/"
   alt: "Springer Nature"
+
+- src: "/images/bddd.jpg"
+  href: "http://bddd.bio.keio.ac.jp/"
+  alt: "MEXT-Supported Program for the Strategic Research Foundation at Private Universities"

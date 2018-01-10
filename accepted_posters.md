@@ -56,7 +56,7 @@ Perocchi, Zuzana Storchova and Bianca Habermann
 * [B22] __*The study of the sequence and structure similarity among metal ion binding sites in proteins*__, Ming-Hsun Tsai, Jia-Jun Liu and Chih-Hao Lu
 * [B23] __*Optimizing sequence assembly for evolutionary variant pattern analysis*__, Seokwoo Kang, Hongtaek Oh and Giltae Song 
 * [B24] __*Interpretation of Branchpoint Variations in Next Generation Sequencing*__, Poulami Chaudhuri, Akriti Jain and Rajgopal Srinivasan
-* [B25] __*transcriptional networks in triple-negative breast cancer (TNBC)*__, Men-Yee Chiew, Chi-Dung Yang, Yu-Jen Chang and Hsien-Da Huang
+* [B25] __*Unraveling the bromodomain and extra-terminal (BET)-mediated transcriptional networks in triple-negative breast cancer (TNBC)*__, Men-Yee Chiew, Chi-Dung Yang, Yu-Jen Chang and Hsien-Da Huang
 * [B26] __*Development of a Multi-gene Sequencing Panel for Sudden Cardiac Death Screening Based on Preventive Medicine*__, Hsin-Tzu Huang, Wei-Chih Huang, Wei-Chi Wang, Yu-Feng Hu and Hsien-Da Huang
 * [B27] __*Integrated analysis of small RNA sequencing for human cancer research*__, Shu-Hsuan Liu and Wei-Chung Cheng
 * [B28] __*Improved member genome recovery from enrichment reactor microbial communities using long read metagenomics*__, Krithika Arumugam, Irina Bessarab, Xianghui Liu, Gayathri Natarajan, Cheryl Sze Yee Tsan, Stefan Wuertz, Federico Lauro, Ying Yu Law, Daniel Huson and Rohan Williams
