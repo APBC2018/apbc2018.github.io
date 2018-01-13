@@ -33,6 +33,9 @@ Conference Registration Fees include:
 
 ## Registration Link and Instructions
 
-For APBC 2018 conference registration, please visit the link below:
+~~For APBC 2018 conference registration, please visit the link below:~~
 
-[https://kitos-001.jp/APBC2018/Entry/RegTop.aspx](https://kitos-001.jp/APBC2018/Entry/RegTop.aspx)
+~~[https://kitos-001.jp/APBC2018/Entry/RegTop.aspx](https://kitos-001.jp/APBC2018/Entry/RegTop.aspx)~~
+
+The registration site has been closed.
+You can make the on-site registration at the registration desk.
