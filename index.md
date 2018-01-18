@@ -12,6 +12,7 @@ The Sixteenth Asia Pacific Bioinformatics Conference will be held in Yokohama, J
 
 # News
 
+* [Award page](/award) is open. (Jan. 18, 2018)
 * [Program](/program.html) was updated. (Dec. 28, 2017)
 * [The Announcement of Social Events](/social.html) was uploaded. (Dec. 27, 2017)
 * [Program](/program.html) was updated. (Dec. 25, 2017)

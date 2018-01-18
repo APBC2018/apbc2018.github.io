@@ -51,8 +51,7 @@ Fang Yu, Men‐Yee Chiew, Fang‐Hsin Chen and Hsien‐Da Huang
 * __*Prediction of enhancer-promoter interactions via natural language processing*__, Wanwen Zeng, Mengmeng Wu, Rui Jiang
 * __*Probing the functions of long non-coding RNAs by exploiting the topology of global association and interaction network*__, Lei Deng, Hongjie Wu and Jinpu Zhang
 * __*Protein complex prediction by date hub removal*__, Iana Pyrogova and Limsoon Wong
-* __*RaptorX-Angle: real-value and confidence prediction of protein backbone dihedral angles through a hybrid method of clustering and deep learning
-*__, Yujuan Gao, Sheng Wang, Minghua Deng and Jinbo Xu
+* __*RaptorX-Angle: real-value and confidence prediction of protein backbone dihedral angles through a hybrid method of clustering and deep learning*__, Yujuan Gao, Sheng Wang, Minghua Deng and Jinbo Xu
 * __*Regulation of dual specificity phosphatases in breast cancer during initial treatment with Herceptin: A Boolean model analysis*__, Petronela Buiga, Ari Elson, Lydia Tabernero and Jean‐Marc Schwartz
 * __*Resolution effects in reconstructing ancestral genomes*__, Chunfang Zheng, Yuji Jeong, Madisyn Turcotte and David Sankoff
 * __*Resource Cut, a New Bounding Procedure to Algorithms for Enumerating Tree-like Chemical Graphs*__, Yuhei Nishiyama, Aleksandar Shurbevski, Hiroshi Nagamochi and Tatsuya Akutsu
